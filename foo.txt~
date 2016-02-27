@@ -1,0 +1,800 @@
+5488|updatePanel|UpdatePanelRefreshButtons|
+                <!-- refresh buttons -->
+                <input type="submit" name="ButRefreshNavigator" value="" id="ButRefreshNavigator" class="Invisible" />
+                <input type="submit" name="ButRefreshBasket" value="" id="ButRefreshBasket" class="Invisible" />
+                <input type="submit" name="RegisterUserButton" value="" id="RegisterUserButton" class="Invisible" />
+                <!-- /refresh buttons -->
+                <!-- Tooptip for criteria change -->
+                
+                
+                <div id="ACSCalloutMessage1000Result_LeftArrow" style="height:0px;width:15px;position:absolute;top:180px;left:530px;border-top:1px solid #000000;background-color:LemonChiffon;z-index:440;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow1" style="height:1px;width:15px;position:absolute;top:181px;left:531px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow2" style="height:1px;width:14px;position:absolute;top:182px;left:532px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow3" style="height:1px;width:13px;position:absolute;top:183px;left:533px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow4" style="height:1px;width:12px;position:absolute;top:184px;left:534px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow5" style="height:1px;width:11px;position:absolute;top:185px;left:535px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow6" style="height:1px;width:10px;position:absolute;top:186px;left:536px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow7" style="height:1px;width:9px;position:absolute;top:187px;left:537px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow8" style="height:1px;width:8px;position:absolute;top:188px;left:538px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow9" style="height:1px;width:7px;position:absolute;top:189px;left:539px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow10" style="height:1px;width:6px;position:absolute;top:190px;left:540px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow11" style="height:1px;width:5px;position:absolute;top:191px;left:541px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow12" style="height:1px;width:4px;position:absolute;top:192px;left:542px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow13" style="height:1px;width:3px;position:absolute;top:193px;left:543px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow14" style="height:1px;width:2px;position:absolute;top:194px;left:544px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_LeftArrow15" style="height:1px;width:1px;position:absolute;top:195px;left:545px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-left:1px solid #000000;">
+
+</div><div id="ACSCalloutMessage1000Result_ctl03">
+	<div id="ACSCalloutMessage1000Result_Content" style="height:120px;width:200px;left:545px;border-left:1px solid #000000;z-index:440;position:absolute;top:160px;border-right:1px solid #000000;border-bottom:1px solid #000000;border-top:1px solid #000000;background-color:LemonChiffon;">
+		<table cellspacing="0" cellpadding="5" border="0" style="height:120px;width:200px;border-collapse:collapse;">
+			<tr style="height:80px;">
+				<td valign="top" style="width:5%;"><img src="images/Icons/warning.png" style="border-width:0px;" /></td><td valign="middle" style="width:90%;">NOTE: Your search results have been limited to the first 1000 records. Please narrow search criteria.</td><td align="right" valign="top" onclick="CloseControl('ACSCalloutMessage1000Result_Content','ACSCalloutMessage1000Result_LeftArrow','15');" style="width:5%;cursor:pointer;"><img src="images/Common/CloseButton.gif" style="border-width:0px;" /></td>
+			</tr><tr valign="bottom" style="height:10px;">
+				<td><input type="submit" name="ACSCalloutMessage1000Result$checkboxBut" value="Btn" id="ACSCalloutMessage1000Result_checkboxBut" style="display:none;" /><input id="ACSCalloutMessage1000Result_checkb" type="checkbox" name="ACSCalloutMessage1000Result$checkb" onclick="DoPost('ACSCalloutMessage1000Result$checkboxBut');" /></td><td valign="middle" colspan="2">Do not display pop-up again</td>
+			</tr>
+		</table>
+	</div>
+</div>
+                
+            |5416|updatePanel|QuickHelp1_UpdatePanel1|
+        <!-- WidgetContainer1 -->
+        <div id="QuickHelp1_WidgetContainer1" class="WidgetContainer WhiteBgColor">
+	
+            <!-- ToolBarContainer -->
+            <div id="QuickHelp1_ToolBarContainer1" class="ToolBarContainer">
+		
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="5">
+                        </td>
+                        <td style="text-align: left; vertical-align: middle; font-weight: bold; height: 30px">
+                            <span id="QuickHelp1_LabelCaption1"></span>
+                        </td>
+                        <td align="right">
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ToolBarContainer -->
+            <!-- ContentContainer -->
+            <div id="QuickHelp1_ContentContainer1" class="WhiteBgColor" style="overflow:auto;">
+		
+                <table cellspacing="0" class="BodyTable StaticInfoHelp" >
+                    <tr>
+                        <td id="QuickHelp1_Contant" style="vertical-align:top;"><div>
+    <table width="100%" border="0" cellspacing="5" cellpadding="0">
+        <tr>
+            <td>
+                <div align="center">
+                    <font size="3"><b>Welcome to Cook County Recorder of Deeds
+                        <br />
+                        20/20 Perfect Vision i2 Search </b></font>
+                </div>
+                <br />
+				<p>
+				 <font size="2"><b>** PLEASE READ LATEST NEWS **</b>
+				<br />
+				<br />
+			<!--	<font color="red">ATTENTION:</font> We are currently experiencing technical issues with our online search portal. We are working onthe issue. If you need immediate assistance with a document purchase, our Downtown Office, and Courthouse offices in Markham and Skokie are fully functional and can assist. We apologize for any inconvenience, and will update this page when resolved.
+				<br />
+				<br />   -->
+				<br />
+				<font color="green">E-RECORDING OF DEEDS NOW AVAILABLE - <a href="http://cookrecorder.com/e-record-deeds-cook-county/">CLICK HERE</a> FOR REGISTRATION INFO.</font>
+				<br />
+				<br />
+				<font color="red">PLEASE UPDATE ALL CCRD.INFO BOOKMARKS TO COOKRECORDER.COM</font>
+				<br />
+				<br />
+				- If you are experiencing problems charging documents with a credit card, please 
+				click <a href="http://12.218.239.81/i2/default.html">here</a> to try the search (and purchase) again  
+				<br />
+				<br />
+				- The following document types are not available on this site and must be searched in our office:
+				<br/>
+					&nbsp &nbsp	ANNX, DEDC, EASE, HWYP, COND, SURP, VACT, VCDD
+                                <br />
+				<br />
+				- If you need additional information, please refer to the contact information on our Search Home page
+				</p>
+				</font>
+                                <br />
+				<br />
+                <p>
+                <font size="2"><b>Instructions/Help </b>
+					<br />
+					The PIN Search is the default search and available at the top of the page. &nbsp 
+					To search by any other type (by Name, Recorded Date, Legal Description  etc.) please click on the Search Criteria menu item above.			
+					<ul>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Search.pdf', 'Search.pdf', 'Search Instructions')"> SEARCH</a> for Searching Instructions. </li>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Navigate.pdf', 'Navigate.pdf', 'Image Viewing and Printing Instructions')"> PRINT</a> for Image Viewing and Printing Instructions</li>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Basket.pdf', 'Basket.pdf', 'Download (Document Container) Instructions')"> DOWNLOAD</a> for Download (Document Container) Instructions</li>
+					<br />
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('AccountInfo.pdf', 'AccountInfo.pdf', 'Opening an Account Instructions')"> ACCOUNT</a> for Instructions to Open an Account With Us</li>
+					</ul>									
+		         </p>
+				 </font>
+                 <p>
+                    <font size="2"><b>System Requirements</b>
+					<br/>	
+					 <b>IMPORTANT:</b> This site uses Pop-ups and Adobe Reader when printing and downloading documents 
+					 <br />
+                        <ul>
+							<li>Click <a href="#" onclick="javascript: setTimeout('ShowPopupTest()', 2000);">PopUp Test</a> to test Pop-ups </li> 
+							<li>Click <a href="http://216.60.44.147/help/edpb.htm">Enable PopUps</a> to learn how to allow Pop-ups </li>
+            		        <li>Click <a href="http://get.adobe.com/reader/">Adobe</a> if you do not have a copy of Adobe Reader currently installed</li> 
+						</ul>
+				</p>	
+				<p>
+					<b>Printing </b>
+					<ul>
+							<li>Click <a href="#" onclick="javascript: OpenPrintWizard('EXECUTIVE.pdf');">Printer Test</a> to test your printer with our site</li>
+                        </ul>
+                    </font>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
+</td>
+		
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        <!-- WidgetContainer1 -->
+        
+        
+    |60|updatePanel|CountyInfo1_UpdatePanel|
+        <!-- WidgetContainer -->
+        
+        
+    |94|updatePanel|SystemMessage1_UpdatePanel|
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    |14738|updatePanel|SearchFormEx1_UpdatePanel|
+        
+        <!-- WidgetContainer -->
+        <div id="SearchFormEx1_WidgetContainer" class="WidgetContainer NoBorder" onkeydown="javascript:
+                           if( event.which || event.keyCode) { 
+                                if ((event.which == 13) ||( event.keyCode == 13)) {
+                                    if ( document.getElementById('SearchFormEx1_btnSearch') != null){ 
+                                    __doPostBack('SearchFormEx1$btnSearch', '');
+                                    return false;
+                                    }
+                                }
+                            }else return true;">
+	
+            <!-- ContentContainer -->
+            <div id="SearchFormEx1_ContentContainer" class="MenueFontSize ContentContainer_NS">
+		
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="text-align: center; vertical-align: bottom; height: 30px">
+                            <div id="SearchFormEx1_ControlContainer">
+			<table id="SearchFormEx1_SF_Table1" cellspacing="6" border="0" style="width:100%;">
+				<tr>
+					<td><table id="SearchFormEx1_DataRange_Table" border="0">
+						<tr id="SearchFormEx1_DataRange_Row1">
+							<td id="SearchFormEx1_DataRange_Cell11"><span>From:</span></td><td id="SearchFormEx1_DataRange_Cell12"><span>To:</span></td>
+						</tr><tr id="SearchFormEx1_DataRange_Row2">
+							<td id="SearchFormEx1_DataRange_Cell21"><input name="SearchFormEx1$DRACSTextBox_DateFrom" type="text" value="2/16/2016" id="SearchFormEx1_DRACSTextBox_DateFrom" class="shortText" /><input type="image" name="SearchFormEx1$Image_DateFrom" id="SearchFormEx1_Image_DateFrom" src="images/Common/Calendar_scheduleHS.png" alt="Click to show calendar" style="border-width:0px;" /></td><td id="SearchFormEx1_DataRange_Cell22"><input name="SearchFormEx1$DRACSTextBox_DateTo" type="text" value="2/26/2016" id="SearchFormEx1_DRACSTextBox_DateTo" class="shortText" /><input type="image" name="SearchFormEx1$Image_DateTo" id="SearchFormEx1_Image_DateTo" src="images/Common/Calendar_scheduleHS.png" alt="Click to show calendar" style="border-width:0px;" /></td>
+						</tr>
+					</table></td><td align="center"><table border="0">
+						<tr>
+							<td><span id="SearchFormEx1_SF_Label6" class="cssTextItalic">Document Types:</span></td>
+						</tr><tr>
+							<td><select name="SearchFormEx1$ACSDropDownList_DocumentType" id="SearchFormEx1_ACSDropDownList_DocumentType" class="ddLst" style="width:250px;">
+								<option selected="selected" value="-2">Search All Document Types</option>
+								<option value="-145">ABANDONMENT</option>
+								<option value="-228">ABROGATION</option>
+								<option value="-156">ACCEPTANCE</option>
+								<option value="-110">ACKNOWLEDGMENT</option>
+								<option value="266">ADDENDUM</option>
+								<option value="-22">AFFIDAVIT</option>
+								<option value="-20">AGREEMENT</option>
+								<option value="199">AMENDED FEDERAL TAX LEIN</option>
+								<option value="166">AMENDED LIS PENDENS </option>
+								<option value="168">AMENDED LIS PENDENS FORECLOSURE</option>
+								<option value="-31">AMENDMENT</option>
+								<option value="-55">AMENDMENT RESTRICTIONS</option>
+								<option value="-133">APPLICATION</option>
+								<option value="-100">APPOINTMENT</option>
+								<option value="-14">ASSIGNMENT</option>
+								<option value="-137">ASSIGNMENT OF BENEFICIAL INT</option>
+								<option value="-41">AUTHORITY</option>
+								<option value="-122">AUTHORIZATION</option>
+								<option value="-131">BANKRUPTCY</option>
+								<option value="-102">BILL OF SALE</option>
+								<option value="-130">BOND</option>
+								<option value="-124">BY-LAWS</option>
+								<option value="268">CANCELLATION</option>
+								<option value="-157">CEMETERY DEED</option>
+								<option value="-36">CERTIFICATE</option>
+								<option value="-219">CERTIFICATE OF LEVY</option>
+								<option value="-203">CERTIFICATE OF PURCHASE</option>
+								<option value="-189">CERTIFICATE OF TITLE</option>
+								<option value="-74">CERTIFIED COPY</option>
+								<option value="-176">CHANGE NAME </option>
+								<option value="-114">CHARTER</option>
+								<option value="-223">CHILD SUPPORT LIEN </option>
+								<option value="-178">CONDEMNATION</option>
+								<option value="-73">CONDOMINIUM DECLARATION</option>
+								<option value="244">CONSENT</option>
+								<option value="-134">CONTINUING FINANCING STMT</option>
+								<option value="-43">CONTRACT</option>
+								<option value="-135">CONVEYANCE</option>
+								<option value="189">CORR. TRANSFER DEATH INSTR</option>
+								<option value="139">CORRECTED AMENDMENT</option>
+								<option value="131">CORRECTED ASSIGNMENT</option>
+								<option value="137">CORRECTED COURT</option>
+								<option value="122">CORRECTED DEED</option>
+								<option value="143">CORRECTED FINANCIAL STATEMENT</option>
+								<option value="116">CORRECTED JUDGEMENT</option>
+								<option value="141">CORRECTED LIEN</option>
+								<option value="147">CORRECTED LIS PENDENS</option>
+								<option value="163">CORRECTED LIS PENDENS FORECLOSURE</option>
+								<option value="129">CORRECTED MORTGAGE</option>
+								<option value="208">CORRECTED PLAT</option>
+								<option value="126">CORRECTED QUIT CLAIM DEED</option>
+								<option value="135">CORRECTED RELEASE</option>
+								<option value="172">CORRECTED SPECIAL WARRANTY DEED</option>
+								<option value="133">CORRECTED SUBORDINATION</option>
+								<option value="124">CORRECTED WARRANTY DEED</option>
+								<option value="-49">CORRECTION</option>
+								<option value="-195">COURT DOC</option>
+								<option value="178">DECLARATION LAND PATENT</option>
+								<option value="-12">DEED</option>
+								<option value="-18">DEED IN TRUST</option>
+								<option value="-85">DEED OF TRUST</option>
+								<option value="-118">DESIGNATION</option>
+								<option value="-136">DISCHARGE</option>
+								<option value="-69">DISCLAIMER</option>
+								<option value="-216">DISMISSAL NON PROPERTY</option>
+								<option value="-7">DISSOLUTION</option>
+								<option value="110">DOCUMENT OF DECLARATION</option>
+								<option value="-174">DONATION</option>
+								<option value="118">ENVIRON LAND USE CONTROL</option>
+								<option value="-95">EXERCISE OPTION</option>
+								<option value="-27">EXTENSION</option>
+								<option value="-202">FEDERAL LIEN</option>
+								<option value="-70">FINANCING STATEMENT</option>
+								<option value="270">FORECLOSURE TITLE FREEZE</option>
+								<option value="-200">FORFEITURE</option>
+								<option value="104">FRAUDULENT DOC NOTICE</option>
+								<option value="-143">GUARANTEE</option>
+								<option value="258">INCORPORATION</option>
+								<option value="-68">JOINT VENTURE AGREEMENT</option>
+								<option value="-120">JUDGMENT </option>
+								<option value="-57">LEASE</option>
+								<option value="-103">LETTER</option>
+								<option value="-111">LICENSE</option>
+								<option value="-119">LIEN</option>
+								<option value="-39">LIS PENDENS</option>
+								<option value="151">LIS PENDENS FORECLOSURE</option>
+								<option value="-132">MECHANICS LIEN</option>
+								<option value="-65">MEMORANDUM</option>
+								<option value="-158">MERGER  </option>
+								<option value="145">MILITARY</option>
+								<option value="-126">MISCELLANEOUS</option>
+								<option value="112">MISCELLANEOUS UCC</option>
+								<option value="-227">MISSING DOCUMENT</option>
+								<option value="-23">MODIFICATION</option>
+								<option value="-128">MONUMENT</option>
+								<option value="-13">MORTGAGE</option>
+								<option value="210">MORTGAGE ASSIGN MTG</option>
+								<option value="-3">NON ATTACHMENT</option>
+								<option value="192">NON CONDO DECLARATION</option>
+								<option value="214">NONCOMPLIANT</option>
+								<option value="272">NONRECORD CLAIMANT EXEMPTION ORDER</option>
+								<option value="154">NOTARIAL RECORD</option>
+								<option value="-117">NOTICE </option>
+								<option value="-210">NOTICE PROP TAX DEFERRAL LIEN</option>
+								<option value="-142">OATH</option>
+								<option value="241">OPTION</option>
+								<option value="-32">ORDER</option>
+								<option value="-191">ORDER OF DISMISSAL</option>
+								<option value="-59">ORDINANCE</option>
+								<option value="-125">PARTIAL ASSIGNMENT</option>
+								<option value="-225">PARTIAL REL FED LIEN</option>
+								<option value="-199">PARTIAL REL STATE LIEN</option>
+								<option value="-9">PARTIAL RELEASE</option>
+								<option value="-162">PARTIAL RELEASE TAX LIEN</option>
+								<option value="212">PARTIAL WITHDRAWAL FED TAX LIEN</option>
+								<option value="-38">PARTNERSHIP AGREEMENT</option>
+								<option value="-127">PERMIT</option>
+								<option value="-89">PETITION</option>
+								<option value="-62">PLAT</option>
+								<option value="216">PLAT OF OPENING PUBLIC ALLEY</option>
+								<option value="203">PLAT OF PUBLIC STREET</option>
+								<option value="-151">PLEDGE</option>
+								<option value="-51">POWER OF ATTORNEY</option>
+								<option value="249">PROMISSORY NOTE</option>
+								<option value="-16">QUIT CLAIM DEED</option>
+								<option value="-109">RATIFICATION</option>
+								<option value="-115">RECEIPT</option>
+								<option value="-226">RECORD OF PAYMENT</option>
+								<option value="-60">REDEMPTION</option>
+								<option value="-26">REGISTERED AGENT</option>
+								<option value="-37">REINSTATEMENT</option>
+								<option value="-8">RELEASE</option>
+								<option value="-224">RELEASE FED LIEN </option>
+								<option value="174">RELEASE PROBATE</option>
+								<option value="-40">RELEASE STATE LIEN</option>
+								<option value="-198">RELEASE TAX LIEN </option>
+								<option value="-113">REMOVAL</option>
+								<option value="-104">RENEWAL</option>
+								<option value="-34">REPORT</option>
+								<option value="-148">REQUEST</option>
+								<option value="-82">RESIGNATION</option>
+								<option value="-141">RESIGNATION AND APPOINTMENT</option>
+								<option value="-150">RESOLUTION </option>
+								<option value="256">RESTRICTION</option>
+								<option value="-215">REVOCATION </option>
+								<option value="-181">REVOCATION CTF REL FED TX LN</option>
+								<option value="-185">REVOCATION OF CTF FED TAX LIEN</option>
+								<option value="239">REVOCATION OF POWER OF ATTY.</option>
+								<option value="-129">RIGHT OF WAY DEED</option>
+								<option value="-179">SALE OF SEIZED PROPERTY</option>
+								<option value="-167">SEIZURE</option>
+								<option value="102">SKIPPED DOCUMENT</option>
+								<option value="170">SPECIAL WARRANTY DEED </option>
+								<option value="-190">STATE LIEN</option>
+								<option value="-96">STIPULATION</option>
+								<option value="197">SUBCONTRACTOR'S CLAIM FOR LIEN</option>
+								<option value="276">SUBORDIATION MORTGAGE</option>
+								<option value="-172">SUBORDINATE FEDERAL LIEN</option>
+								<option value="-186">SUBORDINATE STATE LIEN</option>
+								<option value="-54">SUBORDINATION</option>
+								<option value="195">SUBORDINATION AGREEMENT</option>
+								<option value="-81">SUBROGATION</option>
+								<option value="-98">TAX LETTER</option>
+								<option value="-66">TAX LIEN</option>
+								<option value="-72">TERMINATION</option>
+								<option value="274">TITLE FREEZ EXEMPTION</option>
+								<option value="-152">TRADE NAME</option>
+								<option value="-107">TRANSFER</option>
+								<option value="181">TRANSFER ON DEATH INSTRUMENT</option>
+								<option value="-46">TRUST</option>
+								<option value="-19">TRUST DEED</option>
+								<option value="262">TRUST INDENTURE</option>
+								<option value="-17">TRUSTEES DEED</option>
+								<option value="1">UNKNOWN</option>
+								<option value="-63">WAIVER</option>
+								<option value="-11">WARRANTY DEED</option>
+								<option value="251">WILL</option>
+								<option value="-159">WITHDRAWAL</option>
+								<option value="-140">WRIT</option>
+
+							</select></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+		</div>
+                        </td>
+                        <td id="SearchFormEx1_BasicLayoutCell" style="text-align: left; vertical-align: bottom;
+                            height: 30px"><div id="SearchFormEx1_CtrlLayoutTble">
+			
+    <table style="width: 100px; height: 30px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_SearchBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                            
+                                <input type="submit" name="SearchFormEx1$btnSearch" value="Search" id="SearchFormEx1_btnSearch" class="cssButton cssButton_focused" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_ResetBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                           
+                                <input type="submit" name="SearchFormEx1$BtnReset" value="Reset" id="SearchFormEx1_BtnReset" class="cssButton" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_AdvancedBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                            
+                            
+                            <input type="submit" name="SearchFormEx1$BtnAdvanced_Disabled" value="Advanced" id="SearchFormEx1_BtnAdvanced_Disabled" disabled="disabled" title="Narrow Search" class="cssButton cssButton_disabled" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <div style="height: 6px">
+                </div>
+            </td>
+        </tr>
+    </table>
+
+		</div></td>
+		
+                    </tr>
+                    <tr>
+                        <td id="SearchFormEx1_AdvLayoutCell" align="center" colspan="2"></td>
+		
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        <!-- WidgetContainer -->
+        
+    |2207|updatePanel|SearchInfo1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        <div id="SearchInfo1_WidgetContainer1" class="WidgetContainer NoBorder">
+	
+            <!-- ContentContainer -->
+            <div id="SearchInfo1_ContentContainer1" class="MenueFontSize ContentContainer_NB ">
+		
+                <table cellpadding="0" cellspacing="0" style="height: 100%; width: 100%" align="Center">
+                    <tr>
+                        <td style="width: 5px" />                    
+                        <td style="width: 5px;" />
+                        <td style="vertical-align: top; " >
+                        <!-- ControlContainer -->
+                        <div id="SearchInfo1_ControlContainer1">
+			<table id="SearchInfo1_SI_Table11" class="cssGenTable" cellspacing="1" border="0" style="width:100%;">
+				<tr>
+					<td align="center"><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_GroupName" class="cssLabelTextBold">&nbsp;</span><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_ModelName" class="cssLabelTextBold">Recorded Date Search</span><span class="cssLabelTextBold">: </span><span id="SearchInfo1_ACSLabelParam_FromTo" class="cssLabelText">From: 2/16/2016 Thru:2/26/2016</span><span class="cssLabelTextBold"> Document Type: </span><span id="SearchInfo1_ACSLabelParam_DocumentType" class="cssLabelText">Search All Document Types</span><span class="cssLabelTextBold"> ( Total: </span><span id="SearchInfo1_ACSLabelParam_SearchTime" class="cssLabelText">1.59</span><span class="cssLabelTextBold"> seconds,  </span><span id="SearchInfo1_ACSLabelParam_SearchResultCount" class="cssLabelText">1000</span><span class="cssLabelTextBold"> rows)</span><span class="cssLabelTextBold">  </span><span id="SearchInfo1_ACSLabel_LastRecordDoc" class="cssLabelText">Index Posted Through: 02-17-2016</span></td>
+				</tr>
+			</table>
+		</div>
+                        <!-- /ControlContainer -->
+                        </td>
+                        <td style="width: 5px" />
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- ContentContainer -->
+        
+</div>
+        <!-- /WidgetContainer -->
+        
+    |95|updatePanel|TabController1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |95|updatePanel|TabResultController1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |2317|updatePanel|ImageViewer1_UpdatePanel1|
+        <input type="hidden" name="ImageViewer1$ScrollPos" id="ImageViewer1_ScrollPos" />
+        <input name="ImageViewer1$ScrollPosChange" type="hidden" id="ImageViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="ImageViewer1$_imgContainerWidth" id="ImageViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="ImageViewer1$_imgContainerHeight" id="ImageViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="ImageViewer1$isImageViewerVisible" id="ImageViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="ImageViewer1$hdnWidgetSize" id="ImageViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="ImageViewer1$DragResizeExtender_ClientState" id="ImageViewer1_DragResizeExtender_ClientState" />
+    |2401|updatePanel|CertificateViewer1_UpdatePanel1|
+        <input type="hidden" name="CertificateViewer1$ScrollPos" id="CertificateViewer1_ScrollPos" />
+        <input name="CertificateViewer1$ScrollPosChange" type="hidden" id="CertificateViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerWidth" id="CertificateViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerHeight" id="CertificateViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="CertificateViewer1$isImageViewerVisible" id="CertificateViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="CertificateViewer1$hdnWidgetSize" id="CertificateViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="CertificateViewer1$DragResizeExtender_ClientState" id="CertificateViewer1_DragResizeExtender_ClientState" />
+    |2303|updatePanel|PTAXViewer1_UpdatePanel1|
+        <input type="hidden" name="PTAXViewer1$ScrollPos" id="PTAXViewer1_ScrollPos" />
+        <input name="PTAXViewer1$ScrollPosChange" type="hidden" id="PTAXViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="PTAXViewer1$_imgContainerWidth" id="PTAXViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="PTAXViewer1$_imgContainerHeight" id="PTAXViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="PTAXViewer1$isImageViewerVisible" id="PTAXViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="PTAXViewer1$hdnWidgetSize" id="PTAXViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="PTAXViewer1$DragResizeExtender_ClientState" id="PTAXViewer1_DragResizeExtender_ClientState" />
+    |95|updatePanel|EncumbranceViewer1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |94|updatePanel|OfferAcceptance1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    |23736|updatePanel|DocList1_UpdatePanel|
+        
+        <div id="DocList1_WidgetContainer" class="WidgetContainer WhiteBgColor NoScroll">
+	
+            
+            <div id="DocList1_ToolBarContainer" class="ToolBarContainer">
+		
+                <table cellpadding="0" cellspacing="0" style="vertical-align: top">
+                    <tr>
+                        <td width="5px">
+                        </td>
+                        
+                        <td>
+                            <table id="DocList1_TD_SelectAll" class="ToolBarItem">
+			<tr>
+				<td style="text-align: center; width: 6px">
+                                        <img src="images/imageviewer/seperator_black.png" />
+                                    </td>
+				<td>
+                                        <a id="DocList1_SelectAll" href="javascript:__doPostBack('DocList1$SelectAll','')">Select All</a>
+                                        
+                                    </td>
+			</tr>
+		</table>
+		
+                        </td>
+                        
+                        <td>
+                            <table id="DocList1_TD_InvertSelection" style="width: 95px" class="ToolBarItem">
+			<tr>
+				<td style="text-align: center; width: 6px">
+                                        <img src="images/imageviewer/seperator_black.png" />
+                                    </td>
+				<td>
+                                        <a id="DocList1_InvertSelection" href="javascript:__doPostBack('DocList1$InvertSelection','')">Invert Selection</a>
+                                        
+                                    </td>
+			</tr>
+		</table>
+		
+                        </td>
+                        
+                        
+                        
+                        <td id="DocList1_TD_Print" style="width: 110px">
+                            <table class="ToolBarItem">
+                                <tr>
+                                    <td style="text-align: center; width: 6px">
+                                        <img src="images/imageviewer/seperator_black.png" />
+                                    </td>
+                                    <td>
+                                        <a id="DocList1_LinkButtonPrint" href="javascript:__doPostBack('DocList1$LinkButtonPrint','')" style="display: none;">Purchase Results Summary</a>
+                                        <span id="DocList1_LinkButtonPrint_span" class="ToolBarDisItem">Purchase Results Summary</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+		
+                        <td id="DocList1_TD_AddToBasket" style="text-align: right; vertical-align: top;">
+                            <table cellpadding="2" cellspacing="0" style="height: 35px" align="right">
+                                <tr>
+                                    <td style="text-align: center; width: 6px">
+                                        <img src="images/imageviewer/seperator_black.png" />
+                                    </td>
+                                    <td>
+                                        <a id="DocList1_ButAddToBasket" href="javascript:__doPostBack('DocList1$ButAddToBasket','')" style="display: none;">Add to Cart</a>
+                                        <span id="DocList1_ButAddToBasket_span" class="ToolBarDisItem">Add to Cart</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+		
+                        
+                        <td style="width: 75px">
+                            <table class="ToolBarItem">
+                                <tr>
+                                    <td style="text-align: center; width: 6px">
+                                        <img src="images/imageviewer/seperator_black.png" />
+                                    </td>
+                                    <td>
+                                        <table>
+                                            <tr>
+                                                <td>
+                                                    View:
+                                                </td>
+                                                <td>
+                                                    
+                                                </td>
+                                                <td>
+                                                    <a id="DocList1_PageView2Btn" disabled="disabled">20/Page</a>
+                                                </td>
+                                                <td>
+                                                </td>
+                                                <td>
+                                                    <a id="DocList1_PageView5Btn" href="javascript:__doPostBack('DocList1$PageView5Btn','')">50/Page</a>
+                                                </td>
+                                                <td>
+                                                    <a id="DocList1_PageView100Btn" href="javascript:__doPostBack('DocList1$PageView100Btn','')">100/Page</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>                        
+                        <!-- Purchased Order DownloadSection -->
+                        
+                    </tr>
+                </table>
+            
+	</div>
+            <div id="DocList1_ContentContainer1" class="ContentContainer FontSize NoScroll">
+		
+                
+                
+                
+                <table>
+                    <tr>
+                        <td>
+                            <div>
+			<table cellspacing="0" cellpadding="2" rules="all" border="1" id="DocList1_GridView_Document" style="color:Color [Empty];background-color:Color [Empty];border-color:Color [Empty];width:96%;border-collapse:collapse;">
+				<tr class="DataGridHeader">
+					<th scope="col" style="width:100px;"><a href="javascript:__doPostBack('DocList1$GridView_Document$ctl01$ctl01','')"><b>Recorded Date</b></a><input type="submit" name="DocList1$GridView_Document$ctl01$BtnSortColumn" value="" id="DocList1_GridView_Document_ctl01_BtnSortColumn" class="cssButtonImgSmall9 cssSortingDesImgButton" /></th><th scope="col" style="width:220px;"><a href="javascript:__doPostBack('DocList1$GridView_Document$ctl01$ctl02','')"><b>Type Desc.</b></a></th><th scope="col"><a href="javascript:__doPostBack('DocList1$GridView_Document$ctl01$ctl03','')"><b>Doc. #</b></a></th>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl02_ButtonRow_Recorded Date_0" href="javascript:__doPostBack('DocList1$GridView_Document$ctl02$ButtonRow_Recorded Date_0','')">2/25/2016</a></td><td><a id="DocList1_GridView_Document_ctl02_ButtonRow_Type Desc._0" href="javascript:__doPostBack('DocList1$GridView_Document$ctl02$ButtonRow_Type Desc._0','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl02_ButtonRow_Doc. #_0" href="javascript:__doPostBack('DocList1$GridView_Document$ctl02$ButtonRow_Doc. #_0','')">1605629027</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl03_ButtonRow_Recorded Date_1" href="javascript:__doPostBack('DocList1$GridView_Document$ctl03$ButtonRow_Recorded Date_1','')">2/25/2016</a></td><td><a id="DocList1_GridView_Document_ctl03_ButtonRow_Type Desc._1" href="javascript:__doPostBack('DocList1$GridView_Document$ctl03$ButtonRow_Type Desc._1','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl03_ButtonRow_Doc. #_1" href="javascript:__doPostBack('DocList1$GridView_Document$ctl03$ButtonRow_Doc. #_1','')">1605629035</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl04_ButtonRow_Recorded Date_2" href="javascript:__doPostBack('DocList1$GridView_Document$ctl04$ButtonRow_Recorded Date_2','')">2/24/2016</a></td><td><a id="DocList1_GridView_Document_ctl04_ButtonRow_Type Desc._2" href="javascript:__doPostBack('DocList1$GridView_Document$ctl04$ButtonRow_Type Desc._2','')">CONDOMINIUM DECLARATION</a></td><td><a id="DocList1_GridView_Document_ctl04_ButtonRow_Doc. #_2" href="javascript:__doPostBack('DocList1$GridView_Document$ctl04$ButtonRow_Doc. #_2','')">1605529052</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl05_ButtonRow_Recorded Date_3" href="javascript:__doPostBack('DocList1$GridView_Document$ctl05$ButtonRow_Recorded Date_3','')">2/23/2016</a></td><td><a id="DocList1_GridView_Document_ctl05_ButtonRow_Type Desc._3" href="javascript:__doPostBack('DocList1$GridView_Document$ctl05$ButtonRow_Type Desc._3','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl05_ButtonRow_Doc. #_3" href="javascript:__doPostBack('DocList1$GridView_Document$ctl05$ButtonRow_Doc. #_3','')">1605429024</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl06_ButtonRow_Recorded Date_4" href="javascript:__doPostBack('DocList1$GridView_Document$ctl06$ButtonRow_Recorded Date_4','')">2/23/2016</a></td><td><a id="DocList1_GridView_Document_ctl06_ButtonRow_Type Desc._4" href="javascript:__doPostBack('DocList1$GridView_Document$ctl06$ButtonRow_Type Desc._4','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl06_ButtonRow_Doc. #_4" href="javascript:__doPostBack('DocList1$GridView_Document$ctl06$ButtonRow_Doc. #_4','')">1605429033</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl07_ButtonRow_Recorded Date_5" href="javascript:__doPostBack('DocList1$GridView_Document$ctl07$ButtonRow_Recorded Date_5','')">2/23/2016</a></td><td><a id="DocList1_GridView_Document_ctl07_ButtonRow_Type Desc._5" href="javascript:__doPostBack('DocList1$GridView_Document$ctl07$ButtonRow_Type Desc._5','')">CONDOMINIUM DECLARATION</a></td><td><a id="DocList1_GridView_Document_ctl07_ButtonRow_Doc. #_5" href="javascript:__doPostBack('DocList1$GridView_Document$ctl07$ButtonRow_Doc. #_5','')">1605429065</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl08_ButtonRow_Recorded Date_6" href="javascript:__doPostBack('DocList1$GridView_Document$ctl08$ButtonRow_Recorded Date_6','')">2/23/2016</a></td><td><a id="DocList1_GridView_Document_ctl08_ButtonRow_Type Desc._6" href="javascript:__doPostBack('DocList1$GridView_Document$ctl08$ButtonRow_Type Desc._6','')">CONDOMINIUM DECLARATION</a></td><td><a id="DocList1_GridView_Document_ctl08_ButtonRow_Doc. #_6" href="javascript:__doPostBack('DocList1$GridView_Document$ctl08$ButtonRow_Doc. #_6','')">1605429073</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl09_ButtonRow_Recorded Date_7" href="javascript:__doPostBack('DocList1$GridView_Document$ctl09$ButtonRow_Recorded Date_7','')">2/22/2016</a></td><td><a id="DocList1_GridView_Document_ctl09_ButtonRow_Type Desc._7" href="javascript:__doPostBack('DocList1$GridView_Document$ctl09$ButtonRow_Type Desc._7','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl09_ButtonRow_Doc. #_7" href="javascript:__doPostBack('DocList1$GridView_Document$ctl09$ButtonRow_Doc. #_7','')">1605319078</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl10_ButtonRow_Recorded Date_8" href="javascript:__doPostBack('DocList1$GridView_Document$ctl10$ButtonRow_Recorded Date_8','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl10_ButtonRow_Type Desc._8" href="javascript:__doPostBack('DocList1$GridView_Document$ctl10$ButtonRow_Type Desc._8','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl10_ButtonRow_Doc. #_8" href="javascript:__doPostBack('DocList1$GridView_Document$ctl10$ButtonRow_Doc. #_8','')">1605016038</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl11_ButtonRow_Recorded Date_9" href="javascript:__doPostBack('DocList1$GridView_Document$ctl11$ButtonRow_Recorded Date_9','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl11_ButtonRow_Type Desc._9" href="javascript:__doPostBack('DocList1$GridView_Document$ctl11$ButtonRow_Type Desc._9','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl11_ButtonRow_Doc. #_9" href="javascript:__doPostBack('DocList1$GridView_Document$ctl11$ButtonRow_Doc. #_9','')">1605019029</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl12_ButtonRow_Recorded Date_10" href="javascript:__doPostBack('DocList1$GridView_Document$ctl12$ButtonRow_Recorded Date_10','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl12_ButtonRow_Type Desc._10" href="javascript:__doPostBack('DocList1$GridView_Document$ctl12$ButtonRow_Type Desc._10','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl12_ButtonRow_Doc. #_10" href="javascript:__doPostBack('DocList1$GridView_Document$ctl12$ButtonRow_Doc. #_10','')">1605019030</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl13_ButtonRow_Recorded Date_11" href="javascript:__doPostBack('DocList1$GridView_Document$ctl13$ButtonRow_Recorded Date_11','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl13_ButtonRow_Type Desc._11" href="javascript:__doPostBack('DocList1$GridView_Document$ctl13$ButtonRow_Type Desc._11','')">CONDOMINIUM DECLARATION</a></td><td><a id="DocList1_GridView_Document_ctl13_ButtonRow_Doc. #_11" href="javascript:__doPostBack('DocList1$GridView_Document$ctl13$ButtonRow_Doc. #_11','')">1605019050</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl14_ButtonRow_Recorded Date_12" href="javascript:__doPostBack('DocList1$GridView_Document$ctl14$ButtonRow_Recorded Date_12','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl14_ButtonRow_Type Desc._12" href="javascript:__doPostBack('DocList1$GridView_Document$ctl14$ButtonRow_Type Desc._12','')">CONDOMINIUM DECLARATION</a></td><td><a id="DocList1_GridView_Document_ctl14_ButtonRow_Doc. #_12" href="javascript:__doPostBack('DocList1$GridView_Document$ctl14$ButtonRow_Doc. #_12','')">1605029006</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl15_ButtonRow_Recorded Date_13" href="javascript:__doPostBack('DocList1$GridView_Document$ctl15$ButtonRow_Recorded Date_13','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl15_ButtonRow_Type Desc._13" href="javascript:__doPostBack('DocList1$GridView_Document$ctl15$ButtonRow_Type Desc._13','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl15_ButtonRow_Doc. #_13" href="javascript:__doPostBack('DocList1$GridView_Document$ctl15$ButtonRow_Doc. #_13','')">1605029013</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl16_ButtonRow_Recorded Date_14" href="javascript:__doPostBack('DocList1$GridView_Document$ctl16$ButtonRow_Recorded Date_14','')">2/19/2016</a></td><td><a id="DocList1_GridView_Document_ctl16_ButtonRow_Type Desc._14" href="javascript:__doPostBack('DocList1$GridView_Document$ctl16$ButtonRow_Type Desc._14','')">PLAT</a></td><td><a id="DocList1_GridView_Document_ctl16_ButtonRow_Doc. #_14" href="javascript:__doPostBack('DocList1$GridView_Document$ctl16$ButtonRow_Doc. #_14','')">1605039050</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl17_ButtonRow_Recorded Date_15" href="javascript:__doPostBack('DocList1$GridView_Document$ctl17$ButtonRow_Recorded Date_15','')">2/18/2016</a></td><td><a id="DocList1_GridView_Document_ctl17_ButtonRow_Type Desc._15" href="javascript:__doPostBack('DocList1$GridView_Document$ctl17$ButtonRow_Type Desc._15','')">JUDGMENT </a></td><td><a id="DocList1_GridView_Document_ctl17_ButtonRow_Doc. #_15" href="javascript:__doPostBack('DocList1$GridView_Document$ctl17$ButtonRow_Doc. #_15','')">1604901000</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl18_ButtonRow_Recorded Date_16" href="javascript:__doPostBack('DocList1$GridView_Document$ctl18$ButtonRow_Recorded Date_16','')">2/18/2016</a></td><td><a id="DocList1_GridView_Document_ctl18_ButtonRow_Type Desc._16" href="javascript:__doPostBack('DocList1$GridView_Document$ctl18$ButtonRow_Type Desc._16','')">JUDGMENT </a></td><td><a id="DocList1_GridView_Document_ctl18_ButtonRow_Doc. #_16" href="javascript:__doPostBack('DocList1$GridView_Document$ctl18$ButtonRow_Doc. #_16','')">1604901001</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl19_ButtonRow_Recorded Date_17" href="javascript:__doPostBack('DocList1$GridView_Document$ctl19$ButtonRow_Recorded Date_17','')">2/18/2016</a></td><td><a id="DocList1_GridView_Document_ctl19_ButtonRow_Type Desc._17" href="javascript:__doPostBack('DocList1$GridView_Document$ctl19$ButtonRow_Type Desc._17','')">JUDGMENT </a></td><td><a id="DocList1_GridView_Document_ctl19_ButtonRow_Doc. #_17" href="javascript:__doPostBack('DocList1$GridView_Document$ctl19$ButtonRow_Doc. #_17','')">1604901002</a></td>
+				</tr><tr class="DataGridRow">
+					<td><a id="DocList1_GridView_Document_ctl20_ButtonRow_Recorded Date_18" href="javascript:__doPostBack('DocList1$GridView_Document$ctl20$ButtonRow_Recorded Date_18','')">2/18/2016</a></td><td><a id="DocList1_GridView_Document_ctl20_ButtonRow_Type Desc._18" href="javascript:__doPostBack('DocList1$GridView_Document$ctl20$ButtonRow_Type Desc._18','')">JUDGMENT </a></td><td><a id="DocList1_GridView_Document_ctl20_ButtonRow_Doc. #_18" href="javascript:__doPostBack('DocList1$GridView_Document$ctl20$ButtonRow_Doc. #_18','')">1604901003</a></td>
+				</tr><tr class="DataGridAlternatingRow">
+					<td><a id="DocList1_GridView_Document_ctl21_ButtonRow_Recorded Date_19" href="javascript:__doPostBack('DocList1$GridView_Document$ctl21$ButtonRow_Recorded Date_19','')">2/18/2016</a></td><td><a id="DocList1_GridView_Document_ctl21_ButtonRow_Type Desc._19" href="javascript:__doPostBack('DocList1$GridView_Document$ctl21$ButtonRow_Type Desc._19','')">JUDGMENT </a></td><td><a id="DocList1_GridView_Document_ctl21_ButtonRow_Doc. #_19" href="javascript:__doPostBack('DocList1$GridView_Document$ctl21$ButtonRow_Doc. #_19','')">1604901004</a></td>
+				</tr>
+			</table>
+		</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table id="DocList1_ctl07" cellspacing="0" cellpadding="0" border="0" style="height:15px;border-collapse:collapse;">
+			<tr>
+				<td></td><td style="width:10px;"></td><td style="vertical-align:middle;text-align:center;"><a id="DocList1_ctl08_ctl00_LinkButtonNumber" disabled="disabled" class="PagerSelectedButton" style="display:inline-block;height:15px;width:15px;">1</a>  <a id="DocList1_ctl08_ctl02_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl02$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">2</a>  <a id="DocList1_ctl08_ctl04_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl04$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">3</a>  <a id="DocList1_ctl08_ctl06_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl06$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">4</a>  <a id="DocList1_ctl08_ctl08_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl08$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">5</a>  <a id="DocList1_ctl08_ctl10_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl10$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">6</a>  <a id="DocList1_ctl08_ctl12_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl12$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">7</a>  <a id="DocList1_ctl08_ctl14_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl14$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">8</a>  <a id="DocList1_ctl08_ctl16_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl16$LinkButtonNumber','')" style="display:inline-block;height:15px;width:15px;">9</a>  <a id="DocList1_ctl08_ctl18_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl18$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">10</a>  <a id="DocList1_ctl08_ctl20_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl20$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">11</a>  <a id="DocList1_ctl08_ctl22_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl22$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">12</a>  <a id="DocList1_ctl08_ctl24_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl24$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">13</a>  <a id="DocList1_ctl08_ctl26_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl26$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">14</a>  <a id="DocList1_ctl08_ctl28_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl28$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">15</a>  <a id="DocList1_ctl08_ctl30_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl30$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">16</a>  <a id="DocList1_ctl08_ctl32_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl32$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">17</a>  <a id="DocList1_ctl08_ctl34_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl34$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">18</a>  <a id="DocList1_ctl08_ctl36_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl36$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">19</a>  <a id="DocList1_ctl08_ctl38_LinkButtonNumber" class="PagerNumberButton" href="javascript:__doPostBack('DocList1$ctl08$ctl38$LinkButtonNumber','')" style="display:inline-block;height:15px;width:17px;">20</a></td><td style="width:10px;"></td><td><a id="DocList1_LinkButtonNext" class="PagerNextPrevButton" href="javascript:__doPostBack('DocList1$LinkButtonNext','')" style="display:inline-block;height:15px;">Next</a></td>
+			</tr>
+		</table>
+                        </td>
+                    </tr>
+                </table>
+            
+	</div>
+            
+        
+</div>
+        
+        
+        <input type="hidden" name="DocList1$ctl09" id="DocList1_ctl09" /><div id="DocList1_ctl10">
+
+</div><input type="hidden" name="DocList1$ctl11" id="DocList1_ctl11" />
+    |370|updatePanel|DocDetails1_UpdatePanel1|
+        <input type="hidden" name="DocDetails1$PageSize" id="DocDetails1_PageSize" />
+        <input type="hidden" name="DocDetails1$PageIndex" id="DocDetails1_PageIndex" />
+        <input type="hidden" name="DocDetails1$SortExpression" id="DocDetails1_SortExpression" />
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |95|updatePanel|AddToBasketCtrl1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |211|updatePanel|OrderList1_UpdatePanel|
+        
+        
+        <input type="hidden" name="OrderList1$ctl01" id="OrderList1_ctl01" /><div id="OrderList1_ctl02">
+
+</div><input type="hidden" name="OrderList1$ctl03" id="OrderList1_ctl03" />
+    |95|updatePanel|PrintDocCtrl1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||0|asyncPostBackControlIDs|||0|postBackControlIDs|||1298|updatePanelIDs||tUpdatePanelRefreshButtons,tHeader1$UpdatePanel,tFooter1$UpdatePanel,tQuickHelp1$UpdatePanel1,tStaticInfo1$UpdatePanel1,tCountyInfo1$UpdatePanel,tMessageBoxCtrl1$UpdatePanel1,tSystemMessage1$UpdatePanel,tNavigator1$UpdatePanel,tNavigator1$SearchCriteria1$UpdatePanel,tNavigator1$SearchOptions1$UpdatePanel,tNavigator1$UpdatePanel1,tTabSettingsNavigator1$UpdatePanel1,tRegistrationForm1$UpdatePanel,tRegReport1$UpdatePanel,tReSubscribeReport1$UpdatePanel,tAccountChangeCtrl1$UpdatePanel,tAccountInfoCtrl1$UpdatePanel,tPasswordChangeCtrl1$UpdatePanel1,tHistorySearchFormCtrl1$UpdatePanel,tHistoryResultFormCtrl1$UpdatePanel,tLoginCtrl1$UpdatePanel1,tSearchFormEx1$UpdatePanel,tSearchInfo1$UpdatePanel1,tTabController1$UpdatePanel1,tTabResultController1$UpdatePanel1,tImageViewer1$UpdatePanel1,tCertificateViewer1$UpdatePanel1,tPTAXViewer1$UpdatePanel1,tEncumbranceViewer1$UpdatePanel1,tDocHistoryViewer1$UpdatePanel1,tOfferAcceptance1$UpdatePanel1,tDocList1$UpdatePanel,tNameList1$UpdatePanel,tDocDetails1$UpdatePanel1,tSeeAlso1$UpdatePanel1,tOrderCriteriaCtrl1$UpdatePanel1,tAddToBasketCtrl1$UpdatePanel1,tBasketCtrl1$UpdatePanel,tOrderList1$UpdatePanel,tPrintDocCtrl1$UpdatePanel1,tPrintCriteriaCtrl1$UpdatePanel1,tPayPalData1$UpdatePanel,tPayPalData2$UpdatePanel,tACSCalloutMessage1000Result$ctl03|33|childUpdatePanelIDs||ACSCalloutMessage1000Result$ctl03|484|panelsToRefreshIDs||UpdatePanelRefreshButtons,QuickHelp1$UpdatePanel1,CountyInfo1$UpdatePanel,SystemMessage1$UpdatePanel,SearchFormEx1$UpdatePanel,SearchInfo1$UpdatePanel1,TabController1$UpdatePanel1,TabResultController1$UpdatePanel1,ImageViewer1$UpdatePanel1,CertificateViewer1$UpdatePanel1,PTAXViewer1$UpdatePanel1,EncumbranceViewer1$UpdatePanel1,OfferAcceptance1$UpdatePanel1,DocList1$UpdatePanel,DocDetails1$UpdatePanel1,AddToBasketCtrl1$UpdatePanel1,OrderList1$UpdatePanel,PrintDocCtrl1$UpdatePanel1|3|asyncPostBackTimeout||600|42|formAction||default.aspx?AspxAutoDetectCookieSupport=0|47|pageTitle||Welcome to 20/20 Perfect Vision Land Records I2|68|scriptBlock|ScriptContentNoTags|function RefreshNavigator(){__doPostBack('ButRefreshNavigator','');}|62|scriptBlock|ScriptContentNoTags|function RefreshBasket(){__doPostBack('ButRefreshBasket','');}|63|scriptBlock|ScriptContentNoTags|function RegisterUser(){__doPostBack('RegisterUserButton','');}|270|scriptBlock|ScriptPath|/i2/default.aspx?_TSM_HiddenField_=ScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3aaddc6819%3ac7029a2%3ae9e598a9|213|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=bBHBaPlP7LHFHjxkhsiDo4o4ovzv5tk0UchjKvKBDvrHkvwVhpxFqLVTrO364kROoeFZeKWxY7n0BNLn5y_BXvqlNL8qAVxEnbULm9f2xDXycYQbrYax5KS6n6qjtXYVe9v5l0114q_NUQN9CnEnLwnstP3WBh_uQ1ysXhQehuLmC2Bs0&t=42c91cf9|285|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=jYGotQTc1eOYJAjXStVWQdc2X_WsInh7hiiMA4Il30SN7fC1a-QFKSedq2pf3T4wfZ_5H9RDsCXhZLpDf9rOzPcLmDLPApKggnQrqvvB9immvsgVeLLdRk3T4XDIusotqcmbOe64V-XXbpDxbs-xDeAiWZKP8KR0nic1OIh7tkiDMkIEax5BnvUGfXDCPTnzfQdTE6FVpkV57NY3savE3PHVPaKx9rTUkTtqt06RnSFrBY3c0&t=ffffffffcfd4bb39|213|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=kkPsKHBJXKANwnBL9kkUsgakUzMdbBK00xUghjnVHgbqAI9GJ-6qs8xBSpwVF90W1FjaoTWHqlfQ_bODEIhf4baXaQRqWLRek3mRXYWyZzw3Cc69wNNKZmuroWDzAO3qcyydKKvu7WZKxNb5hY8BYHkJsNsXoA_7hQItlP08sYUof79r0&t=4f9e86af|53|scriptStartupBlock|ScriptContentNoTags|setSearchFormFocus('SearchFormEx1_ControlContainer');|97|scriptStartupBlock|ScriptContentNoTags|TimeoutClose('ACSCalloutMessage1000Result_Content','ACSCalloutMessage1000Result_LeftArrow','15');|485|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"QuickHelp1_ContentContainer1","HorizontalOffset":670,"HorizontalSpan":15,"MinHeight":1,"MinWidth":1,"ToolbarContainerId":"QuickHelp1_ToolBarContainer1","ToolbarHeight":35,"VerticalOffset":145,"VerticalSpan":45,"WidgetContainerId":"QuickHelp1_WidgetContainer1","ZIndex":0,"id":"QuickHelp1_DocingExtender1"}, null, null, $get("QuickHelp1_WidgetContainer1"));
+});
+|266|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"button":$get("SearchFormEx1_Image_DateFrom"),"id":"SearchFormEx1_DRACSCalendar_DateFrom"}, {"shown":ChangeCalendarView}, null, $get("SearchFormEx1_DRACSTextBox_DateFrom"));
+});
+|260|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"button":$get("SearchFormEx1_Image_DateTo"),"id":"SearchFormEx1_DRACSCalendar_DateTo"}, {"shown":ChangeCalendarView}, null, $get("SearchFormEx1_DRACSTextBox_DateTo"));
+});
+|453|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchFormEx1_ContentContainer","DocSide":0,"HeightMode":1,"HorizontalOffset":350,"HorizontalSpan":15,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":33,"WidgetContainerId":"SearchFormEx1_WidgetContainer","ZIndex":1200,"id":"SearchFormEx1_DocingExtender"}, null, null, $get("SearchFormEx1_WidgetContainer"));
+});
+|447|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchInfo1_ContentContainer1","DocSide":0,"Height":45,"HorizontalOffset":110,"HorizontalSpan":110,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":110,"WidgetContainerId":"SearchInfo1_WidgetContainer1","ZIndex":140,"id":"SearchInfo1_DocingExtender1"}, null, null, $get("SearchInfo1_WidgetContainer1"));
+});
+|465|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"DocList1_ContentContainer1","HorizontalOffset":10,"MinHeight":1,"MinWidth":10,"ToolbarContainerId":"DocList1_ToolBarContainer","ToolbarHeight":35,"VerticalOffset":145,"VerticalSpan":45,"WidgetContainerId":"DocList1_WidgetContainer","Width":655,"ZIndex":140,"id":"DocList1_DocingExtender"}, null, null, $get("DocList1_WidgetContainer"));
+});
+|608|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DataGridEx.DataGridBehavior, {"AddCheckBoxes":true,"CheckInfoId":"DocList1_ctl09","DataGridId":"DocList1_GridView_Document","FixScroll":true,"FooterId":"DocList1_ctl07","InvertSelectId":"DocList1_InvertSelection","PageIndex":0,"PageSize":20,"PopupDelayTime":0,"PopupPanelId":"DocList1_ctl10","RowCount":1000,"ScrlPosContainerId":"DocList1_ctl11","SelectAllId":"DocList1_SelectAll","UserBtnIds":"DocList1_LinkButtonPrint,DocList1_ButAddToBasket","id":"DocList1_DataGridExtender1"}, null, null, $get("DocList1_ContentContainer1"));
+});
+|

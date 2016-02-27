@@ -1,0 +1,761 @@
+5662|updatePanel|UpdatePanelRefreshButtons|
+                <!-- refresh buttons -->
+                <input type="submit" name="ButRefreshNavigator" value="" id="ButRefreshNavigator" class="Invisible" />
+                <input type="submit" name="ButRefreshBasket" value="" id="ButRefreshBasket" class="Invisible" />
+                <input type="submit" name="RegisterUserButton" value="" id="RegisterUserButton" class="Invisible" />
+                <!-- /refresh buttons -->
+                <!-- Tooptip for criteria change -->
+                <div id="ACSCalloutMessageChangeCriteria_RightArrow" style="height:0px;width:15px;position:absolute;top:80px;left:35px;display:block;border-top:1px solid #000000;background-color:LemonChiffon;z-index:440;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow1" style="height:1px;width:15px;position:absolute;top:81px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow2" style="height:1px;width:14px;position:absolute;top:82px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow3" style="height:1px;width:13px;position:absolute;top:83px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow4" style="height:1px;width:12px;position:absolute;top:84px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow5" style="height:1px;width:11px;position:absolute;top:85px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow6" style="height:1px;width:10px;position:absolute;top:86px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow7" style="height:1px;width:9px;position:absolute;top:87px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow8" style="height:1px;width:8px;position:absolute;top:88px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow9" style="height:1px;width:7px;position:absolute;top:89px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow10" style="height:1px;width:6px;position:absolute;top:90px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow11" style="height:1px;width:5px;position:absolute;top:91px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow12" style="height:1px;width:4px;position:absolute;top:92px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow13" style="height:1px;width:3px;position:absolute;top:93px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow14" style="height:1px;width:2px;position:absolute;top:94px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_RightArrow15" style="height:1px;width:1px;position:absolute;top:95px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+</div><div id="ACSCalloutMessageChangeCriteria_ctl03">
+	<div id="ACSCalloutMessageChangeCriteria_Content" style="height:130px;width:250px;left:35px;border-left:1px solid #000000;z-index:440;position:absolute;top:59px;border-right:1px solid #000000;border-bottom:1px solid #000000;border-top:1px solid #000000;background-color:LemonChiffon;">
+		<table cellspacing="0" cellpadding="5" border="0" style="height:130px;width:250px;border-collapse:collapse;">
+			<tr style="height:90px;">
+				<td valign="top" style="width:5%;"><img src="images/Icons/warning.png" style="border-width:0px;" /></td><td valign="middle" style="width:90%;">NOTE: To search a different criteria, please click on the Search Criteria menu.  To narrow your search criteria please click on the Advanced button.</td><td align="right" valign="top" onclick="CloseControl('ACSCalloutMessageChangeCriteria_Content','ACSCalloutMessageChangeCriteria_RightArrow','15');" style="width:5%;cursor:pointer;"><img src="images/Common/CloseButton.gif" style="border-width:0px;" /></td>
+			</tr><tr valign="bottom" style="height:10px;">
+				<td><input type="submit" name="ACSCalloutMessageChangeCriteria$checkboxBut" value="Btn" id="ACSCalloutMessageChangeCriteria_checkboxBut" style="display:none;" /><input id="ACSCalloutMessageChangeCriteria_checkb" type="checkbox" name="ACSCalloutMessageChangeCriteria$checkb" onclick="DoPost('ACSCalloutMessageChangeCriteria$checkboxBut');" /></td><td valign="middle" colspan="2">Do not display pop-up again</td>
+			</tr>
+		</table>
+	</div>
+</div>
+                
+                
+                
+            |42|updatePanel|History1_UpdatePanel|        
+                
+        
+    |1112|updatePanel|Header1_UpdatePanel|
+        <!-- WidgetContainer -->
+        <div id="Header1_WidgetContainer" class="WidgetContainer NoBorder HeaderContainer">
+	
+            <!-- ContentContainer -->
+            <div id="Header1_ContentContainer1">
+		
+                <table cellpadding="0" cellspacing="0" style="height: 100%; width: 100%">
+                    <tr>
+                        <td style="text-align: left; width: 340px; height: 76px;">
+                            <img id="Header1__HeaderImg" src="Widgets/Common/ACSPubResource.axd?SCTTYPE=OPEN&amp;URL=header.jpg&amp;EXTINFO=&amp;RESTYPE=JPG&amp;ACT=VIEW" style="border-width:0px;" />
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="Line" />
+                    </tr>
+					<tr>
+                        <td colspan="2" style="background-color: #eee; height: 1px;" />
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- ContentContainer -->
+        
+</div>
+        <!-- /WidgetContainer -->
+        
+    |2266|updatePanel|Footer1_UpdatePanel|
+        <!-- WidgetContainer -->
+        <div id="Footer1_WidgetContainer1" class="FooterContainer">
+	
+            <!-- ContentContainer -->
+            <div id="Footer1_ContentContainer1">
+		
+                <table style="width: 100%; margin-top: 0px;" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td colspan="4" class="Line"/>
+                    </tr>
+               
+                    <tr>
+                        <td style="width: 10px" />
+                        <td class="FooterCell">
+                            <table>
+                                <tr>
+                                    <td>
+                                        Copyright © 2010 - 2016 <a href="http://www.xerox.com/">Xerox Corporation</a>. All rights reserved.
+                                    </td>
+									 <td width="5px"> | </td>
+									 <td>
+                                        <a id="Footer1_TermsLinkBtn" href="javascript:__doPostBack('Footer1$TermsLinkBtn','')">DISCLAIMER | ACCEPTANCE OF TERMS | CONDITIONS | NOTICES | LIMITED USE LICENSE</a>
+                                    </td>
+                                    <td>
+                                        <a id="Footer1_PrivacyLinkBtn" href="javascript:__doPostBack('Footer1$PrivacyLinkBtn','')" style="display: none">DISCLAIMER, ACCEPTANCE OF TERMS, CONDITIONS, NOTICES AND LIMITED USE LICENSE</a>
+                                    </td>
+                                    
+                                </tr>
+                            </table>
+                        </td>
+                        <td class="FooterCell" style="text-align: right">
+                            <table>
+                                <tr>
+                                   <td valign="middle">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td style="width: 10px" />
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- ContentContainer -->
+        
+</div>
+        <!-- /WidgetContainer -->
+        
+    |5416|updatePanel|QuickHelp1_UpdatePanel1|
+        <!-- WidgetContainer1 -->
+        <div id="QuickHelp1_WidgetContainer1" class="WidgetContainer WhiteBgColor">
+	
+            <!-- ToolBarContainer -->
+            <div id="QuickHelp1_ToolBarContainer1" class="ToolBarContainer">
+		
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="5">
+                        </td>
+                        <td style="text-align: left; vertical-align: middle; font-weight: bold; height: 30px">
+                            <span id="QuickHelp1_LabelCaption1"></span>
+                        </td>
+                        <td align="right">
+                            
+                            
+                        </td>
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ToolBarContainer -->
+            <!-- ContentContainer -->
+            <div id="QuickHelp1_ContentContainer1" class="WhiteBgColor" style="overflow:auto;">
+		
+                <table cellspacing="0" class="BodyTable StaticInfoHelp" >
+                    <tr>
+                        <td id="QuickHelp1_Contant" style="vertical-align:top;"><div>
+    <table width="100%" border="0" cellspacing="5" cellpadding="0">
+        <tr>
+            <td>
+                <div align="center">
+                    <font size="3"><b>Welcome to Cook County Recorder of Deeds
+                        <br />
+                        20/20 Perfect Vision i2 Search </b></font>
+                </div>
+                <br />
+				<p>
+				 <font size="2"><b>** PLEASE READ LATEST NEWS **</b>
+				<br />
+				<br />
+			<!--	<font color="red">ATTENTION:</font> We are currently experiencing technical issues with our online search portal. We are working onthe issue. If you need immediate assistance with a document purchase, our Downtown Office, and Courthouse offices in Markham and Skokie are fully functional and can assist. We apologize for any inconvenience, and will update this page when resolved.
+				<br />
+				<br />   -->
+				<br />
+				<font color="green">E-RECORDING OF DEEDS NOW AVAILABLE - <a href="http://cookrecorder.com/e-record-deeds-cook-county/">CLICK HERE</a> FOR REGISTRATION INFO.</font>
+				<br />
+				<br />
+				<font color="red">PLEASE UPDATE ALL CCRD.INFO BOOKMARKS TO COOKRECORDER.COM</font>
+				<br />
+				<br />
+				- If you are experiencing problems charging documents with a credit card, please 
+				click <a href="http://12.218.239.81/i2/default.html">here</a> to try the search (and purchase) again  
+				<br />
+				<br />
+				- The following document types are not available on this site and must be searched in our office:
+				<br/>
+					&nbsp &nbsp	ANNX, DEDC, EASE, HWYP, COND, SURP, VACT, VCDD
+                                <br />
+				<br />
+				- If you need additional information, please refer to the contact information on our Search Home page
+				</p>
+				</font>
+                                <br />
+				<br />
+                <p>
+                <font size="2"><b>Instructions/Help </b>
+					<br />
+					The PIN Search is the default search and available at the top of the page. &nbsp 
+					To search by any other type (by Name, Recorded Date, Legal Description  etc.) please click on the Search Criteria menu item above.			
+					<ul>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Search.pdf', 'Search.pdf', 'Search Instructions')"> SEARCH</a> for Searching Instructions. </li>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Navigate.pdf', 'Navigate.pdf', 'Image Viewing and Printing Instructions')"> PRINT</a> for Image Viewing and Printing Instructions</li>
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('Basket.pdf', 'Basket.pdf', 'Download (Document Container) Instructions')"> DOWNLOAD</a> for Download (Document Container) Instructions</li>
+					<br />
+					<li>Click <a href="#" onclick="javascript: OpenResourceProvider('AccountInfo.pdf', 'AccountInfo.pdf', 'Opening an Account Instructions')"> ACCOUNT</a> for Instructions to Open an Account With Us</li>
+					</ul>									
+		         </p>
+				 </font>
+                 <p>
+                    <font size="2"><b>System Requirements</b>
+					<br/>	
+					 <b>IMPORTANT:</b> This site uses Pop-ups and Adobe Reader when printing and downloading documents 
+					 <br />
+                        <ul>
+							<li>Click <a href="#" onclick="javascript: setTimeout('ShowPopupTest()', 2000);">PopUp Test</a> to test Pop-ups </li> 
+							<li>Click <a href="http://216.60.44.147/help/edpb.htm">Enable PopUps</a> to learn how to allow Pop-ups </li>
+            		        <li>Click <a href="http://get.adobe.com/reader/">Adobe</a> if you do not have a copy of Adobe Reader currently installed</li> 
+						</ul>
+				</p>	
+				<p>
+					<b>Printing </b>
+					<ul>
+							<li>Click <a href="#" onclick="javascript: OpenPrintWizard('EXECUTIVE.pdf');">Printer Test</a> to test your printer with our site</li>
+                        </ul>
+                    </font>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
+</td>
+		
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        <!-- WidgetContainer1 -->
+        
+        
+    |3230|updatePanel|CountyInfo1_UpdatePanel|
+        <!-- WidgetContainer -->
+        <div id="CountyInfo1_WidgetContainer" class="WidgetContainer WhiteBgColor">
+	        
+            <div id="CountyInfo1_ToolBarContainer" class="ToolBarContainer" style="height: 30px">
+		
+            
+	</div>
+            <!-- ContentContainer -->
+            <div id="CountyInfo1_ContentContainer" class="ContentContainer" style="overflow:auto;">
+		
+                <table cellspacing="0" cellpadding="0" class="BodyTable" style="empty-cells:hide">
+                    
+                                        
+                    <tr valign="top">
+                        <td id="CountyInfo1_InfoContent" class="StaticInfoHelp"><div style="vertical-align: top;" >
+    <table width="100%" border="0" cellspacing="5" cellpadding="0">
+        <tr>
+			<td rowspan="2" style="vertical-align: top; width: 100px"> 
+				<table width="90%" border="0" cellspacing="5" cellpadding="0">
+					<tr>
+						<td>
+							<img alt="Cook County Recorder of Deeds" width="119" height="171" src="ACSPubResource.axd?&amp;URL=recorder.jpg&amp;SCTTYPE=OPEN&amp;EXTINFO=&amp;RESTYPE=GIF&amp;ACT=VIEW" />
+							<br /><br />
+							Karen A. Yarbrough<br />
+							Cook County Recorder of Deeds
+							<hr />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<font size="2" >
+								<a href="http://cookrecorder.com/">Home</a>
+							</font>							 
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td rowspan="2" style="vertical-align: top; background-color: #efefef; width: 5px">
+			</td>
+        </tr>
+		<tr>
+			<td style="vertical-align: top;">				
+			  <p><font size="3" >
+				Welcome!</font>
+				<br />
+	             <font size="2">Our new website enables you to search and view documents on record with the
+                        Cook County Recorder of Deeds 
+					<br />  
+					<b> Please Note: </b> Condominium Declarations, Plats and RE Transfer Declarations are not available for purchase on our website. If you would like a copy
+                        of these document types, you may purchase them at our downtown location.					
+					<br />
+					<br/>
+					Copies made/ordered on our new website will incur the following charges:
+					<ul>
+					<li>Per Document Download $2.50 </li>
+					<li>Standard Copy by Mail $10.00 first 2 pages + $1.00 each additional page + $2.25 postage </li>
+					<li>Certified Copy by Mail $20.00 first 2 pages + $2.00 each additional page + $2.25 postage</li>
+					</ul>
+				<br />
+				 For assistance with <u>general information</u> (searching, site navigation), please <br /> call <b>312-603-5050</b>. &nbsp A live operator will assist you at the end of the message.
+				<br/>
+				<br />
+					For assistance with <u>computer problems</u> (printing, downloading), please email <a href="mailto:rod.support@cookcountyil.gov">
+                    rod.support@cookcountyil.gov</a> or call 312-603-4777 or 312-603-5070 Monday-Friday between the hours of 8:30 a.m. and 4:30 p.m. CDT. 
+				</font>
+			  </p>
+			</td>
+		</tr>
+    </table>
+</div>
+</td>
+		
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        
+    |2747|updatePanel|MessageBoxCtrl1_UpdatePanel1|
+        <!-- ScreenBlocker -->
+        <div id="MessageBoxCtrl1_ScreenBlocker" tabindex="20" class="ScreenBlocker">
+	
+        
+</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        <div id="MessageBoxCtrl1_WidgetContainer" tabindex="1" class="WidgetContainer_FB" style="height:175px;width:350px;">
+	
+            <!-- ToolBarContainer -->
+            <div id="MessageBoxCtrl1_ToolBarContainer" class="ToolBarContainer">
+		
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="5">
+                        </td>
+                        <td style="text-align: left; vertical-align: middle; font-weight: bold">
+                            <span id="MessageBoxCtrl1_Label2">20/20 Perfect Vision Land Records I2</span>
+                        </td>
+                        <td align="right">
+                            <img id="MessageBoxCtrl1_ClosePanButton" onclick="document.getElementById('MessageBoxCtrl1_WidgetContainer').style.display='none'; document.getElementById('MessageBoxCtrl1_ScreenBlocker').style.display='none'" src="images/Common/modal_close_btn.gif" style="border-width:0px;cursor: pointer" />
+                        </td>
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ToolBarContainer -->
+            <!-- ContentContainer -->
+            <div id="MessageBoxCtrl1_ContentContainer" class="ContentContainer_NS" style="height:130px;width:350px;">
+		
+                <table cellpadding="0" cellspacing="0" style="width: 100%; height: 100%; vertical-align: middle;
+                    text-align: center">
+                    <tr>
+                        <td width="10" rowspan="2">
+                        </td>
+                        <td style="text-align: center; vertical-align: middle;">
+                            <div id="MessageBoxCtrl1_ErrorLabel1" style="overflow:auto; max-height:90px;">Your current session has expired. Please begin a new session.</div>
+                        </td>
+                        <td width="10" rowspan="2">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="vertical-align: bottom; text-align: center">
+                            <div id="MessageBoxCtrl1_ButtonContainer">
+			<input type="submit" name="MessageBoxCtrl1$buttonmbatOK" value="Ok" id="MessageBoxCtrl1_buttonmbatOK" class="cssButton" />
+		</div>
+
+                        </td>
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        <!-- WidgetContainer -->
+        
+        
+    |94|updatePanel|SystemMessage1_UpdatePanel|
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    |948|updatePanel|Navigator1_UpdatePanel1|
+                                            <table id="Navigator1_SignupTable">
+	<tr>
+		<td id="Navigator1__SignOnCell" style="text-align: left">
+                                                        <table>
+                                                            <tr>
+                                                                
+                                                                <td style="cursor: pointer">
+                                                                    <a id="Navigator1_LinkButton_SignOn" href="javascript:__doPostBack('Navigator1$LinkButton_SignOn','')">SignOn</a>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+	</tr>
+</table>
+
+                                        |170|updatePanel|PasswordChangeCtrl1_UpdatePanel1|
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |179|updatePanel|LoginCtrl1_UpdatePanel1|
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+        
+    |11958|updatePanel|SearchFormEx1_UpdatePanel|
+        
+        <!-- WidgetContainer -->
+        <div id="SearchFormEx1_WidgetContainer" class="WidgetContainer NoBorder" onkeydown="javascript:
+                           if( event.which || event.keyCode) { 
+                                if ((event.which == 13) ||( event.keyCode == 13)) {
+                                    if ( document.getElementById('SearchFormEx1_btnSearch') != null){ 
+                                    __doPostBack('SearchFormEx1$btnSearch', '');
+                                    return false;
+                                    }
+                                }
+                            }else return true;">
+	
+            <!-- ContentContainer -->
+            <div id="SearchFormEx1_ContentContainer" class="MenueFontSize ContentContainer_NS">
+		
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="text-align: center; vertical-align: bottom; height: 30px">
+                            <div id="SearchFormEx1_ControlContainer">
+			<table id="SearchFormEx1_SF_Table1" class="cssPanel" cellspacing="6" border="0" style="width:100%;">
+				<tr>
+					<td align="center" style="width:5px;"><span class="cssTextItalic" style="display:inline-block;width:10px;"> </span></td><td align="left" colspan="6" style="width:210px;"><span class="cssTextItalic">Property Identification Number (PIN):</span></td>
+				</tr><tr>
+					<td align="center"></td><td align="left" colspan="6"><span id="SearchFormEx1_ACSPin1"><table id="SearchFormEx1_PINTextBoxTable" border="0">
+						<tr id="SearchFormEx1_PINTextBoxRow">
+							<td><input name="SearchFormEx1$PINTextBox0" type="text" value="07" maxlength="2" id="SearchFormEx1_PINTextBox0" class="deftext" onkeyup="var txt;
+                                     if (this.value.length == 2) 
+                                        txt = document.getElementById('SearchFormEx1_PINTextBox1');
+                                     if (txt)
+                                        txt.focus();" style="width:16px;" /></td><td id="SearchFormEx1_PINSeparator0"> - </td><td><input name="SearchFormEx1$PINTextBox1" type="text" value="08" maxlength="2" id="SearchFormEx1_PINTextBox1" class="text" onkeyup="var txt;
+                                     if (this.value.length == 2) 
+                                        txt = document.getElementById('SearchFormEx1_PINTextBox2');
+                                     if (txt)
+                                        txt.focus();" style="width:16px;" /></td><td id="SearchFormEx1_PINSeparator1"> - </td><td><input name="SearchFormEx1$PINTextBox2" type="text" value="402" maxlength="3" id="SearchFormEx1_PINTextBox2" class="text" onkeyup="var txt;
+                                     if (this.value.length == 3) 
+                                        txt = document.getElementById('SearchFormEx1_PINTextBox3');
+                                     if (txt)
+                                        txt.focus();" style="width:24px;" /></td><td id="SearchFormEx1_PINSeparator2"> - </td><td><input name="SearchFormEx1$PINTextBox3" type="text" value="013" maxlength="3" id="SearchFormEx1_PINTextBox3" class="text" onkeyup="var txt;
+                                     if (this.value.length == 3) 
+                                        txt = document.getElementById('SearchFormEx1_PINTextBox4');
+                                     if (txt)
+                                        txt.focus();" style="width:24px;" /></td><td id="SearchFormEx1_PINSeparator3"> - </td><td><input name="SearchFormEx1$PINTextBox4" type="text" value="0000" maxlength="4" id="SearchFormEx1_PINTextBox4" class="text" onkeyup="var txt;
+                                     if (this.value.length == 4) 
+                                        txt = document.getElementById('PINTextBox5');
+                                     if (txt)
+                                        txt.focus();" style="width:32px;" /></td>
+						</tr>
+					</table></span></td>
+				</tr><tr style="display: none">
+					<td align="center" colspan="7"><span id="SearchFormEx1_SF_Label4" class="cssTextItalic">and/or</span></td>
+				</tr><tr style="display: none">
+					<td align="center"></td><td align="left" colspan="6"><input id="SearchFormEx1_ACSRadioButton1" type="radio" name="SearchFormEx1$LegalTypeGroup" value="ACSRadioButton1" /><label for="SearchFormEx1_ACSRadioButton1">Subdivision</label></td>
+				</tr><tr style="display: none">
+					<td align="left"></td><td align="left" colspan="6"><span id="SearchFormEx1_SF_Label5" class="cssTextItalic">Subdivision Short Name</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label6" class="cssTextItalic">Block No.</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label7" class="cssTextItalic">Lot No.</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label8" class="cssTextItalic">Part of Lot No.</span></td>
+				</tr><tr style="display: none">
+					<td align="center"></td><td align="center" colspan="6"><input name="SearchFormEx1$ACSTextBox_Subdivision" type="text" maxlength="20" id="SearchFormEx1_ACSTextBox_Subdivision" class="text" style="width:200px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_BlockNo" type="text" maxlength="7" id="SearchFormEx1_ACSTextBox_BlockNo" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_LotNo" type="text" maxlength="7" id="SearchFormEx1_ACSTextBox_LotNo" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_PartOfLotNo" type="text" maxlength="1" id="SearchFormEx1_ACSTextBox_PartOfLotNo" class="text" style="width:90px;" /></td>
+				</tr><tr style="display: none">
+					<td align="center"></td><td align="left" colspan="6"><input id="SearchFormEx1_ACSRadioButton2" type="radio" name="SearchFormEx1$LegalTypeGroup" value="ACSRadioButton2" /><label for="SearchFormEx1_ACSRadioButton2">Condominium</label></td>
+				</tr><tr style="display: none">
+					<td align="left"></td><td align="left" colspan="6"><span id="SearchFormEx1_SF_Label9" class="cssTextItalic">Declaration of Condo No.</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label10" class="cssTextItalic">Building No.</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label11" class="cssTextItalic">Unit No.</span></td>
+				</tr><tr style="display: none">
+					<td align="center"></td><td align="center" colspan="6"><input name="SearchFormEx1$ACSTextBox_DeclarationCondoNo" type="text" maxlength="20" id="SearchFormEx1_ACSTextBox_DeclarationCondoNo" class="text" style="width:200px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_BuildingNo" type="text" maxlength="7" id="SearchFormEx1_ACSTextBox_BuildingNo" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_UnitNo" type="text" maxlength="7" id="SearchFormEx1_ACSTextBox_UnitNo" class="text" style="width:90px;" /></td>
+				</tr><tr style="display: none">
+					<td align="center" style="width:5px;"></td><td align="left" colspan="3"><input id="SearchFormEx1_ACSRadioButton3" type="radio" name="SearchFormEx1$LegalTypeGroup" value="ACSRadioButton3" /><label for="SearchFormEx1_ACSRadioButton3">Acreage</label></td>
+				</tr><tr style="display: none">
+					<td align="left"></td><td align="left" colspan="3"><span id="SearchFormEx1_SF_Label12" class="cssTextItalic">No. of Acres</span></td><td align="left" colspan="3"><span id="SearchFormEx1_SF_Label13" class="cssTextItalic">3rd Quarter</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label14" class="cssTextItalic">2nd Quarter</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label15" class="cssTextItalic">1st Quarter</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label16" class="cssTextItalic">Part 1 Code</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label17" class="cssTextItalic">Part 2 Code</span></td><td align="left" style="width:100px;"><span id="SearchFormEx1_SF_Label18" class="cssTextItalic">One Half Code</span></td>
+				</tr><tr style="display: none">
+					<td align="center"></td><td align="center" colspan="3"><input name="SearchFormEx1$ACSTextBox_AcresNo" type="text" maxlength="9" id="SearchFormEx1_ACSTextBox_AcresNo" class="text" style="width:90px;" /></td><td align="center" colspan="3"><input name="SearchFormEx1$ACSTextBox_Quarter3" type="text" maxlength="2" id="SearchFormEx1_ACSTextBox_Quarter3" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_Quarter2" type="text" maxlength="2" id="SearchFormEx1_ACSTextBox_Quarter2" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_Quarter1" type="text" maxlength="2" id="SearchFormEx1_ACSTextBox_Quarter1" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_Part1Code" type="text" maxlength="1" id="SearchFormEx1_ACSTextBox_Part1Code" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_Part2Code" type="text" maxlength="1" id="SearchFormEx1_ACSTextBox_Part2Code" class="text" style="width:90px;" /></td><td align="center"><input name="SearchFormEx1$ACSTextBox_OneHalfCode" type="text" maxlength="1" id="SearchFormEx1_ACSTextBox_OneHalfCode" class="text" style="width:90px;" /></td>
+				</tr>
+			</table>
+		</div>
+                        </td>
+                        <td id="SearchFormEx1_BasicLayoutCell" style="text-align: left; vertical-align: bottom;
+                            height: 30px"><div id="SearchFormEx1_CtrlLayoutTble">
+			
+    <table style="width: 100px; height: 30px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_SearchBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                            
+                                <input type="submit" name="SearchFormEx1$btnSearch" value="Search" id="SearchFormEx1_btnSearch" class="cssButton cssButton_focused" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_ResetBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                           
+                                <input type="submit" name="SearchFormEx1$BtnReset" value="Reset" id="SearchFormEx1_BtnReset" class="cssButton" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_AdvancedBtnTable" cellpadding="0" cellspacing="1">
+				<tr>
+					<td>
+                            
+                            
+                            <input type="submit" name="SearchFormEx1$BtnAdvanced_Disabled" value="Advanced" id="SearchFormEx1_BtnAdvanced_Disabled" disabled="disabled" title="Narrow Search" class="cssButton cssButton_disabled" />
+                        </td>
+				</tr>
+			</table>
+			
+            </td>
+            <td valign="bottom" align="right">
+                
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <div style="height: 6px">
+                </div>
+            </td>
+        </tr>
+    </table>
+
+		</div></td>
+		
+                    </tr>
+                    <tr>
+                        <td id="SearchFormEx1_AdvLayoutCell" align="center" colspan="2"></td>
+		
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- /ContentContainer -->
+        
+</div>
+        <!-- WidgetContainer -->
+        
+    |1622|updatePanel|SearchInfo1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        <div id="SearchInfo1_WidgetContainer1" class="WidgetContainer NoBorder">
+	
+            <!-- ContentContainer -->
+            <div id="SearchInfo1_ContentContainer1" class="MenueFontSize ContentContainer_NB ">
+		
+                <table cellpadding="0" cellspacing="0" style="height: 100%; width: 100%" align="Center">
+                    <tr>
+                        <td style="width: 5px" />                    
+                        <td style="width: 5px;" />
+                        <td style="vertical-align: top; " >
+                        <!-- ControlContainer -->
+                        <div id="SearchInfo1_ControlContainer1">
+			<table id="SearchInfo1_SI_Table1" class="cssGenTable" cellspacing="1" border="0" style="width:100%;">
+				<tr>
+					<td align="center"><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_GroupName" class="cssLabelTextBold">&nbsp;</span><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_ModelName" class="cssLabelTextBold">Property Identification Number (PIN) Search</span><span class="cssLabelTextBold">  </span><span id="SearchInfo1_ACSLabel_LastRecordDoc" class="cssLabelText">Index Posted Through: 02-17-2016</span></td>
+				</tr>
+			</table>
+		</div>
+                        <!-- /ControlContainer -->
+                        </td>
+                        <td style="width: 5px" />
+                    </tr>
+                </table>
+            
+	</div>
+            <!-- ContentContainer -->
+        
+</div>
+        <!-- /WidgetContainer -->
+        
+    |95|updatePanel|TabController1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |95|updatePanel|TabResultController1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |2317|updatePanel|ImageViewer1_UpdatePanel1|
+        <input type="hidden" name="ImageViewer1$ScrollPos" id="ImageViewer1_ScrollPos" />
+        <input name="ImageViewer1$ScrollPosChange" type="hidden" id="ImageViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="ImageViewer1$_imgContainerWidth" id="ImageViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="ImageViewer1$_imgContainerHeight" id="ImageViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="ImageViewer1$isImageViewerVisible" id="ImageViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="ImageViewer1$hdnWidgetSize" id="ImageViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="ImageViewer1$DragResizeExtender_ClientState" id="ImageViewer1_DragResizeExtender_ClientState" />
+    |2401|updatePanel|CertificateViewer1_UpdatePanel1|
+        <input type="hidden" name="CertificateViewer1$ScrollPos" id="CertificateViewer1_ScrollPos" />
+        <input name="CertificateViewer1$ScrollPosChange" type="hidden" id="CertificateViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerWidth" id="CertificateViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerHeight" id="CertificateViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="CertificateViewer1$isImageViewerVisible" id="CertificateViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="CertificateViewer1$hdnWidgetSize" id="CertificateViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="CertificateViewer1$DragResizeExtender_ClientState" id="CertificateViewer1_DragResizeExtender_ClientState" />
+    |2303|updatePanel|PTAXViewer1_UpdatePanel1|
+        <input type="hidden" name="PTAXViewer1$ScrollPos" id="PTAXViewer1_ScrollPos" />
+        <input name="PTAXViewer1$ScrollPosChange" type="hidden" id="PTAXViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="PTAXViewer1$_imgContainerWidth" id="PTAXViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="PTAXViewer1$_imgContainerHeight" id="PTAXViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="PTAXViewer1$isImageViewerVisible" id="PTAXViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="PTAXViewer1$hdnWidgetSize" id="PTAXViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="PTAXViewer1$DragResizeExtender_ClientState" id="PTAXViewer1_DragResizeExtender_ClientState" />
+    |95|updatePanel|EncumbranceViewer1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |94|updatePanel|OfferAcceptance1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    |221|updatePanel|DocList1_UpdatePanel|
+        
+        
+        
+        
+        <input type="hidden" name="DocList1$ctl09" id="DocList1_ctl09" /><div id="DocList1_ctl10">
+
+</div><input type="hidden" name="DocList1$ctl11" id="DocList1_ctl11" />
+    |563|updatePanel|NameList1_UpdatePanel|
+        <input type="hidden" name="NameList1$ScrollPos" id="NameList1_ScrollPos" />
+        <input name="NameList1$ScrollPosChange" type="hidden" id="NameList1_ScrollPosChange" />
+        
+        <input type="hidden" name="NameList1$_SortExpression" id="NameList1__SortExpression" />
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+        <input type="hidden" name="NameList1$ctl03" id="NameList1_ctl03" /><div id="NameList1_ctl04">
+
+</div><input type="hidden" name="NameList1$ctl05" id="NameList1_ctl05" />
+    |370|updatePanel|DocDetails1_UpdatePanel1|
+        <input type="hidden" name="DocDetails1$PageSize" id="DocDetails1_PageSize" />
+        <input type="hidden" name="DocDetails1$PageIndex" id="DocDetails1_PageIndex" />
+        <input type="hidden" name="DocDetails1$SortExpression" id="DocDetails1_SortExpression" />
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |267|updatePanel|OrderCriteriaCtrl1_UpdatePanel1|
+        <!-- ScreenBlocker -->
+        <div id="OrderCriteriaCtrl1_ScreenBlocker1" class="ScreenBlocker">
+	
+        
+</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    |95|updatePanel|AddToBasketCtrl1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |211|updatePanel|OrderList1_UpdatePanel|
+        
+        
+        <input type="hidden" name="OrderList1$ctl01" id="OrderList1_ctl01" /><div id="OrderList1_ctl02">
+
+</div><input type="hidden" name="OrderList1$ctl03" id="OrderList1_ctl03" />
+    |95|updatePanel|PrintDocCtrl1_UpdatePanel1|
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    |267|updatePanel|PrintCriteriaCtrl1_UpdatePanel1|
+        <!-- ScreenBlocker -->
+        <div id="PrintCriteriaCtrl1_ScreenBlocker1" class="ScreenBlocker">
+	
+        
+</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||0|asyncPostBackControlIDs|||0|postBackControlIDs|||1324|updatePanelIDs||tUpdatePanelRefreshButtons,tHistory1$UpdatePanel,tHeader1$UpdatePanel,tFooter1$UpdatePanel,tQuickHelp1$UpdatePanel1,tStaticInfo1$UpdatePanel1,tCountyInfo1$UpdatePanel,tMessageBoxCtrl1$UpdatePanel1,tSystemMessage1$UpdatePanel,tNavigator1$UpdatePanel,tNavigator1$SearchCriteria1$UpdatePanel,tNavigator1$SearchOptions1$UpdatePanel,tNavigator1$UpdatePanel1,tTabSettingsNavigator1$UpdatePanel1,tRegistrationForm1$UpdatePanel,tRegReport1$UpdatePanel,tReSubscribeReport1$UpdatePanel,tAccountChangeCtrl1$UpdatePanel,tAccountInfoCtrl1$UpdatePanel,tPasswordChangeCtrl1$UpdatePanel1,tHistorySearchFormCtrl1$UpdatePanel,tHistoryResultFormCtrl1$UpdatePanel,tLoginCtrl1$UpdatePanel1,tSearchFormEx1$UpdatePanel,tSearchInfo1$UpdatePanel1,tTabController1$UpdatePanel1,tTabResultController1$UpdatePanel1,tImageViewer1$UpdatePanel1,tCertificateViewer1$UpdatePanel1,tPTAXViewer1$UpdatePanel1,tEncumbranceViewer1$UpdatePanel1,tDocHistoryViewer1$UpdatePanel1,tOfferAcceptance1$UpdatePanel1,tDocList1$UpdatePanel,tNameList1$UpdatePanel,tDocDetails1$UpdatePanel1,tSeeAlso1$UpdatePanel1,tOrderCriteriaCtrl1$UpdatePanel1,tAddToBasketCtrl1$UpdatePanel1,tBasketCtrl1$UpdatePanel,tOrderList1$UpdatePanel,tPrintDocCtrl1$UpdatePanel1,tPrintCriteriaCtrl1$UpdatePanel1,tPayPalData1$UpdatePanel,tPayPalData2$UpdatePanel,tACSCalloutMessageChangeCriteria$ctl03|37|childUpdatePanelIDs||ACSCalloutMessageChangeCriteria$ctl03|741|panelsToRefreshIDs||UpdatePanelRefreshButtons,History1$UpdatePanel,Header1$UpdatePanel,Footer1$UpdatePanel,QuickHelp1$UpdatePanel1,CountyInfo1$UpdatePanel,MessageBoxCtrl1$UpdatePanel1,SystemMessage1$UpdatePanel,Navigator1$UpdatePanel1,PasswordChangeCtrl1$UpdatePanel1,LoginCtrl1$UpdatePanel1,SearchFormEx1$UpdatePanel,SearchInfo1$UpdatePanel1,TabController1$UpdatePanel1,TabResultController1$UpdatePanel1,ImageViewer1$UpdatePanel1,CertificateViewer1$UpdatePanel1,PTAXViewer1$UpdatePanel1,EncumbranceViewer1$UpdatePanel1,OfferAcceptance1$UpdatePanel1,DocList1$UpdatePanel,NameList1$UpdatePanel,DocDetails1$UpdatePanel1,OrderCriteriaCtrl1$UpdatePanel1,AddToBasketCtrl1$UpdatePanel1,OrderList1$UpdatePanel,PrintDocCtrl1$UpdatePanel1,PrintCriteriaCtrl1$UpdatePanel1|3|asyncPostBackTimeout||600|42|formAction||default.aspx?AspxAutoDetectCookieSupport=0|47|pageTitle||Welcome to 20/20 Perfect Vision Land Records I2|68|scriptBlock|ScriptContentNoTags|function RefreshNavigator(){__doPostBack('ButRefreshNavigator','');}|62|scriptBlock|ScriptContentNoTags|function RefreshBasket(){__doPostBack('ButRefreshBasket','');}|63|scriptBlock|ScriptContentNoTags|function RegisterUser(){__doPostBack('RegisterUserButton','');}|87|scriptBlock|ScriptPath|/i2/default.aspx?_TSM_HiddenField_=ScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b|213|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=bBHBaPlP7LHFHjxkhsiDo4o4ovzv5tk0UchjKvKBDvrHkvwVhpxFqLVTrO364kROoeFZeKWxY7n0BNLn5y_BXvqlNL8qAVxEnbULm9f2xDXycYQbrYax5KS6n6qjtXYVe9v5l0114q_NUQN9CnEnLwnstP3WBh_uQ1ysXhQehuLmC2Bs0&t=42c91cf9|285|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=jYGotQTc1eOYJAjXStVWQdc2X_WsInh7hiiMA4Il30SN7fC1a-QFKSedq2pf3T4wfZ_5H9RDsCXhZLpDf9rOzPcLmDLPApKggnQrqvvB9immvsgVeLLdRk3T4XDIusotqcmbOe64V-XXbpDxbs-xDeAiWZKP8KR0nic1OIh7tkiDMkIEax5BnvUGfXDCPTnzfQdTE6FVpkV57NY3savE3PHVPaKx9rTUkTtqt06RnSFrBY3c0&t=ffffffffcfd4bb39|213|scriptBlock|ScriptPath|/i2/ScriptResource.axd?d=kkPsKHBJXKANwnBL9kkUsgakUzMdbBK00xUghjnVHgbqAI9GJ-6qs8xBSpwVF90W1FjaoTWHqlfQ_bODEIhf4baXaQRqWLRek3mRXYWyZzw3Cc69wNNKZmuroWDzAO3qcyydKKvu7WZKxNb5hY8BYHkJsNsXoA_7hQItlP08sYUof79r0&t=4f9e86af|106|scriptStartupBlock|ScriptContentNoTags|TimeoutClose('ACSCalloutMessageChangeCriteria_Content','ACSCalloutMessageChangeCriteria_RightArrow','15');|53|scriptStartupBlock|ScriptContentNoTags|setSearchFormFocus('SearchFormEx1_ControlContainer');|55|scriptStartupBlock|ScriptContentNoTags|javascript:setfocus('MessageBoxCtrl1_WidgetContainer');|384|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"Header1_ContentContainer1","DocSide":0,"Height":80,"MinHeight":10,"MinWidth":1000,"ToolbarHeight":35,"VerticalOffset":25,"WidgetContainerId":"Header1_WidgetContainer","ZIndex":0,"id":"Header1_DocingExtender"}, null, null, $get("Header1_WidgetContainer"));
+});
+|356|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"Footer1_ContentContainer1","DocSide":3,"Height":40,"MinHeight":10,"MinWidth":1000,"ToolbarHeight":35,"WidgetContainerId":"Footer1_WidgetContainer1","id":"Footer1_DocingExtender1"}, null, null, $get("Footer1_WidgetContainer1"));
+});
+|485|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"QuickHelp1_ContentContainer1","HorizontalOffset":670,"HorizontalSpan":15,"MinHeight":1,"MinWidth":1,"ToolbarContainerId":"QuickHelp1_ToolBarContainer1","ToolbarHeight":35,"VerticalOffset":145,"VerticalSpan":45,"WidgetContainerId":"QuickHelp1_WidgetContainer1","ZIndex":0,"id":"QuickHelp1_DocingExtender1"}, null, null, $get("QuickHelp1_WidgetContainer1"));
+});
+|477|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"CountyInfo1_ContentContainer","HorizontalOffset":10,"MinHeight":1,"MinWidth":10,"ToolbarContainerId":"CountyInfo1_ToolBarContainer","ToolbarHeight":35,"VerticalOffset":145,"VerticalSpan":45,"WidgetContainerId":"CountyInfo1_WidgetContainer","Width":655,"ZIndex":0,"id":"CountyInfo1_DocingExtender"}, null, null, $get("CountyInfo1_WidgetContainer"));
+});
+|544|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"MessageBoxCtrl1_ContentContainer","DocSide":4,"Height":175,"HeightMode":1,"MinHeight":10,"MinWidth":10,"ScreenBlockerId":"MessageBoxCtrl1_ScreenBlocker","ToolbarContainerId":"MessageBoxCtrl1_ToolBarContainer","ToolbarHeight":35,"WidgetContainerId":"MessageBoxCtrl1_WidgetContainer","Width":350,"WidthMode":1,"ZIndex":1500,"id":"MessageBoxCtrl1_DocingExtender"}, null, null, $get("MessageBoxCtrl1_WidgetContainer"));
+});
+|226|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.FloatingBehavior, {"handle":$get("MessageBoxCtrl1_ToolBarContainer"),"id":"MessageBoxCtrl1_DPE1"}, null, null, $get("MessageBoxCtrl1_WidgetContainer"));
+});
+|453|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchFormEx1_ContentContainer","DocSide":0,"HeightMode":1,"HorizontalOffset":350,"HorizontalSpan":15,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":33,"WidgetContainerId":"SearchFormEx1_WidgetContainer","ZIndex":1200,"id":"SearchFormEx1_DocingExtender"}, null, null, $get("SearchFormEx1_WidgetContainer"));
+});
+|447|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchInfo1_ContentContainer1","DocSide":0,"Height":45,"HorizontalOffset":110,"HorizontalSpan":110,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":110,"WidgetContainerId":"SearchInfo1_WidgetContainer1","ZIndex":140,"id":"SearchInfo1_DocingExtender1"}, null, null, $get("SearchInfo1_WidgetContainer1"));
+});
+|
