@@ -1,5 +1,6 @@
+from __future__ import print_function
 import requests
-from lxml import html
+import lxml.html as lh
 
 headers = {
 		'Host':'162.217.184.82',
@@ -15,7 +16,7 @@ headers = {
 		'Referer':'http://162.217.184.82/i2/default.aspx?AspxAutoDetectCookieSupport=0',
 		'Accept-Encoding':'gzip, deflate',
 		'Accept-Language':'en-US,en;q=0.8',
-		'Cookie': 'AspxAutoDetectCookieSupport=1; ASP.NET_SessionId=jnk3pwawu3yaus45zhxqzzad'
+		'Cookie': 'AspxAutoDetectCookieSupport=1; ASP.NET_SessionId=pu5nh2yjazp0ew55qcx2jo55'
 }
 payload={
 	'SearchFormEx1$DRACSTextBox_DateTo' : '2/26/2016',
@@ -73,6 +74,19 @@ fo = open("foo1.txt", "wb")
 fo.write(r.content);
 fo.close()
 print(r)
+
+file = open('foo1.txt', 'r')
+ht = file.read()
+tree = lh.fromstring(ht)
+table = tree.xpath('//table[@id="DocList1_GridView_Document"]//tr//td//text()')
+
+i = 0
+while i < (len(table)-3):
+	print(table[i],end=' ')
+	print(table[i+1],end=' ')
+	print(table[i+2],end=' ')
+	print('')
+	i = i + 3
 #print(r.apparent_encoding)
 
 #tree = html.formstring(r.content)
